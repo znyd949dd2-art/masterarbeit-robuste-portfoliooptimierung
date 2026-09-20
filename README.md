@@ -1,7 +1,7 @@
 # Robuste Portfoliooptimierung — Code zur Masterarbeit
 
 Dieses Repository enthält den vollständigen Python-Code zur Masterarbeit
-**"Robuste Portfoliooptimierung"** (Marei Peischl, TU Darmstadt, 2026).
+**"Robuste Portfoliooptimierung"** (Sonja Gagel, TU Darmstadt, Optimierung).
 
 Die Implementierung baut auf folgenden drei Arbeiten auf:
 - Zhu, S.-S. & Fukushima, M. (2009). *Worst-Case Conditional Value-at-Risk with
