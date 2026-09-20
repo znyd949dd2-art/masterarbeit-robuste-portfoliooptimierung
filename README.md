@@ -18,7 +18,7 @@ Die Implementierung baut auf folgenden drei Arbeiten auf:
 | Datei | Kapitel | Beschreibung |
 |---|---|---|
 | `masterarbeit_kapitel6.ipynb` | Kapitel 6 | Reproduktion der empirischen Anwendung aus Huang et al. (2010, Abschnitt 4.1): Nominal-CVaR, WCVaR und RCVaR unter multivariater Normalverteilungsannahme (SOCP), Reproduktion von Tabelle 1 und Figure 1, ergänzende Regret-Analyse |
-| `masterabreit_daily.ipynb` | Kapitel 7 | Eigene Erweiterung: robuste Portfoliooptimierung unter empirisch nicht-normalverteilten Finanzkrisen-Tagesrenditen (2007–2009), szenariobasiertes LP-Modell unter Box-Unsicherheit |
+| `masterabreit_kapitel7.ipynb` | Kapitel 7 | Eigene Erweiterung: robuste Portfoliooptimierung unter empirisch nicht-normalverteilten Finanzkrisen-Tagesrenditen (2007–2009), szenariobasiertes LP-Modell unter Box-Unsicherheit |
 
 ## Daten
 
