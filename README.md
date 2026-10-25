@@ -12,11 +12,9 @@ Evaluation robuster CVaR-Modelle“**
  
 ## Daten
 
-`30_Industry_Portfolios.csv` (Kapitel 6) und `30_Industry_Portfolios_Daily.csv`  (Kapitel 7) |
-`30_Industry_Portfolios_202605.csv`  (Kapitel 6, optional) - ältere Version der Monatsdaten für den Versionsvergleich
+- `30_Industry_Portfolios.csv` (Kapitel 6) und `30_Industry_Portfolios_Daily.csv`  (Kapitel 7) 
+- `30_Industry_Portfolios_202605.csv`  (Kapitel 6, optional) - ältere Version der Monatsdaten für den Versionsvergleich
  
-Die Ergebnisse der Arbeit beruhen auf der CRSP-Version 202608. die Version
-steht jeweils in der ersten Zeile der CSV-Datei.
  
 ## Voraussetzungen
  
